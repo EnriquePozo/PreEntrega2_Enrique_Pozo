@@ -1,0 +1,38 @@
+header{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid;
+    background-color: darkkhaki;
+ /*   display: flex;
+    flex-direction: column;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+    align-self: center;*/
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(162,162,198,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.etiqueta{
+    color: white;
+}
+
+.resultado{
+    color: white;
+}
+
+.encabezado1{
+    color: aliceblue;
+    border: 2px solid;
+}
+
+.registro1{
+    color: aliceblue;
+}
+
+.busqueda{
+    color: white;
+}
